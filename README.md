@@ -42,9 +42,13 @@ I am a **Systems Thinker, Educator, and Creative Director** based in Lahore, Pak
 ---
 
 ## 🌐 Connect with Me
-- 📍 Lahore, Punjab, Pakistan  
-- 📧 Email: [ziapk32@gmail.com](mailto:ziapk32@gmail.com)  
-- 🔗 LinkedIn: [www.linkedin.com/in/ziapk32](https://www.linkedin.com/in/ziapk32)
+
+📍 **Lahore, Punjab, Pakistan**
+
+[![Email](https://img.shields.io/badge/Email-ziapk32@gmail.com-blue?style=for-the-badge)](mailto:ziapk32@gmail.com?subject=Inquiry%20from%20LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ziapk32)
+[![Facebook](https://img.shields.io/badge/Facebook-FaintHuman-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/fainthuman/)
+[![X](https://img.shields.io/badge/X-MrFaintHuman-000000?style=for-the-badge&logo=twitter)](https://x.com/MrFaintHuman)
 
 ---
 
