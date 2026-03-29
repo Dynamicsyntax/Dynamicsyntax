@@ -35,8 +35,8 @@ I am a **Systems Thinker, Educator, and Creative Director** based in Lahore, Pak
 
 ## 🌐 Connect with Me
 - 📍 Lahore, Punjab, Pakistan  
-- 🎧 Currently Flowing To: *DUORUSH - Ride It*  
-- 🛠️ Working On: Deploying stateful multi-agent systems on **watsonx.ai**  
+- 📧 Email: [ziapk32@gmail.com](mailto:ziapk32@gmail.com)  
+- 🔗 LinkedIn: [www.linkedin.com/in/ziapk32](https://www.linkedin.com/in/ziapk32)
 
 ---
 
