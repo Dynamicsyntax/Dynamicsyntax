@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Systems_Thinker-Pragmatic-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Creative_Director-Excellence-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-Expert-green?style=for-the-badge" />
+</p>
+
+---
+
 # 🤖 Zia | Systems Architect & Creative Director
 
 **Bridging Formal Logic with Production-Grade Generative AI**
@@ -49,10 +57,4 @@ I am a **Systems Thinker, Educator, and Creative Director** based in Lahore, Pak
 | **Infrastructure** | AWS Lambda, FaaS, Serverless Economics, GitHub Actions |
 | **Design**      | Adobe Creative Suite, Identity-Preserved GenAI |
 
----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Systems_Thinker-Pragmatic-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Creative_Director-Excellence-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_AI-Expert-green?style=for-the-badge" />
-</p>
