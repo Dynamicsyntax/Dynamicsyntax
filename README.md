@@ -1,64 +1,66 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Systems_Thinker-Pragmatic-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Creative_Director-Excellence-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_AI-Expert-green?style=for-the-badge" />
-</p>
+# 🤖 Zia | Agentic Systems Architect & Creative Director
+**The intersection of Formal Logic, Production-Grade AI, and World-Class Design.**
+
+[![Systems Thinker](https://img.shields.io/badge/Systems_Thinker-Pragmatic-blue?style=for-the-badge)](https://github.com/Dynamicsyntax)
+[![Creative Director](https://img.shields.io/badge/Creative_Director-Excellence-orange?style=for-the-badge)](https://github.com/Dynamicsyntax)
+[![Agentic AI Expert](https://img.shields.io/badge/Agentic_AI-Expert-green?style=for-the-badge)](https://github.com/Dynamicsyntax)
 
 ---
 
-# 🤖 Zia | Systems Architect & Creative Director
-
-**Bridging Formal Logic with Production-Grade Generative AI**
-
-I am a **Systems Thinker, Educator, and Creative Director** based in Lahore, Pakistan. My work lives at the intersection of **Agentic AI frameworks**, **Automata Theory**, and **World-Class Print Design**. I specialize in building autonomous, stateful AI ecosystems and translating complex technical workflows into premium, modular visual guides.
+## Executive Summary
+Based in Lahore, Pakistan, I architect **autonomous, stateful AI ecosystems** by applying **Automata Theory** to modern LLM orchestration. My unique value proposition lies in "Context Alignment"—ensuring that complex digital systems (from LangGraph workflows to 500-page print portfolios) maintain logical integrity across all user states.
 
 ---
 
-## 🚀 Technical Core
-- **Agentic AI & Orchestration:** Production-grade workflows with **LangGraph**, **AutoGen**, and **CrewAI**
-- **Stateful Systems:** Applying **Automata Theory** to solve context alignment and temporal drift in Agent-User Interactions (AG-UI)
-- **HITL Architectures:** Designing **Human-in-the-Loop** feedback mechanisms for high-stakes AI decision-making
-- **Cloud Economics:** Optimizing serverless infrastructure through **Cost-Indifference Point (CIP)** analysis
+## 🚀 Technical Expertise & Impact
+
+### 🧠 Agentic AI & Orchestration
+* **Production Workflows:** Specialist in **LangGraph**, **AutoGen**, and **CrewAI** for multi-agent collaboration.
+* **State Management:** Leveraging **Automata Theory** to mitigate temporal drift and context misalignment in complex Agent-User Interactions (AG-UI).
+* **HITL (Human-in-the-Loop):** Designing feedback loops that allow for high-stakes decision-making without sacrificing system autonomy.
+
+### ⚙️ Systems Architecture
+* **Cloud Economics:** Expert in **Cost-Indifference Point (CIP)** analysis, optimizing AWS Lambda and FaaS environments for enterprise-scale deployment.
+* **Governance:** Implementing dashboards for **Executive Cost Governance** to ensure AI resource transparency.
+
+### 🎨 Creative Direction & GenAI
+* **Identity Preservation:** Specialized workflows for maintaining facial and structural consistency in AI-generated media (Subject-Reference-Consistency).
+* **Print Production:** Full-cycle mastery of offset printing (CMYK, bleed, slug) for premium, high-end portfolios.
 
 ---
 
-## 🎨 Creative Direction
-- **Identity Preservation:** Consistent AI generations, maintaining facial structure across symbolic contexts  
-- **Print Production:** Mastery of **offset printing** (CMYK, bleed, slug) for high-end portfolios  
-- **Inclusive Design:** Advocate for **gender-neutral minimalism** and linguistic accessibility  
+## 🛠️ Featured Labs & Contributions
 
----
+### [Panaversity: Learn Agentic AI](https://github.com/panaversity/learn-agentic-ai)
+* **Role:** Lead Architect / Educator
+* **Impact:** Developed modular workbooks and state-machine guides used by engineers to transition from prompt engineering to full agent orchestration.
 
-## 🛠️ Current Labs
-- **[learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai):** Modular workbooks and state-machine guides for AI engineers  
-- **Serverless Optimization:** Dashboards for **Executive Cost Governance** and resource-aware load balancing  
-- **Symbolic Caricatures:** Visual series exploring professional identity facets through minimalist illustration  
-
----
-
-## 📊 Professional Philosophy
-> "Complexity requires structure. Whether it's a multi-agent AI pipeline or a 500-page offset print workbook, the goal is **Context Alignment**: ensuring the internal logic of the system remains synchronized with the reality of the user's state."
-
----
-## 🌐 Connect with Me
-
-📍 **Lahore, Punjab, Pakistan**
-
-[![Email](https://img.shields.io/badge/Email-ziapk32@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziapk32@gmail.com?subject=Inquiry%20from%20LinkedIn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziapk32)
-[![Facebook](https://img.shields.io/badge/Facebook-FaintHuman-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fainthuman/)
-[![X](https://img.shields.io/badge/X-MrFaintHuman-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MrFaintHuman)
-
+### Symbolic Caricatures & Professional Identity
+* A visual series exploring the multifaceted nature of professional identity through minimalist illustration and AI-assisted design.
 
 ---
 
 ## ⚡ Technical Stack
 
-| Category        | Tools & Frameworks |
-|-----------------|---------------------|
-| **AI Agents**   | LangGraph, CrewAI, AutoGen, OpenAI SDK |
-| **Data Science**| Python, Pandas, Seaborn, Scikit-Learn |
-| **Infrastructure** | AWS Lambda, FaaS, Serverless Economics, GitHub Actions |
-| **Design**      | Adobe Creative Suite, Identity-Preserved GenAI |
+| Domain | Technologies |
+| :--- | :--- |
+| **AI Orchestration** | LangGraph, CrewAI, AutoGen, OpenAI SDK, LangChain |
+| **Data & Analytics** | Python, Pandas, Seaborn, Scikit-Learn |
+| **Cloud & DevOps** | AWS Lambda, FaaS, GitHub Actions, Serverless Framework |
+| **Design** | Adobe Creative Cloud, Midjourney (v6+), Identity-Preserved Stable Diffusion |
 
+---
 
+## 📊 Professional Philosophy
+
+> "Complexity is the enemy of adoption. Whether I am building a multi-agent pipeline or a print workbook, the goal is **Precision Engineering**—making the complex feel intuitive through structured logic."
+
+---
+
+## 🌐 Connect & Collaborate
+
+📍 **Lahore, Punjab, Pakistan**
+
+[![Email](https://img.shields.io/badge/Email-ziapk32%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziapk32@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziapk32)
+[![X](https://img.shields.io/badge/X-MrFaintHuman-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MrFaintHuman)
