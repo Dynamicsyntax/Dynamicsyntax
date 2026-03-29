@@ -40,15 +40,15 @@ I am a **Systems Thinker, Educator, and Creative Director** based in Lahore, Pak
 > "Complexity requires structure. Whether it's a multi-agent AI pipeline or a 500-page offset print workbook, the goal is **Context Alignment**: ensuring the internal logic of the system remains synchronized with the reality of the user's state."
 
 ---
-
 ## 🌐 Connect with Me
 
 📍 **Lahore, Punjab, Pakistan**
 
-[![Email](https://img.shields.io/badge/Email-ziapk32@gmail.com-blue?style=for-the-badge)](mailto:ziapk32@gmail.com?subject=Inquiry%20from%20LinkedIn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ziapk32)
-[![Facebook](https://img.shields.io/badge/Facebook-FaintHuman-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/fainthuman/)
-[![X](https://img.shields.io/badge/X-MrFaintHuman-000000?style=for-the-badge&logo=twitter)](https://x.com/MrFaintHuman)
+[![Email](https://img.shields.io/badge/Email-ziapk32@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziapk32@gmail.com?subject=Inquiry%20from%20LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziapk32)
+[![Facebook](https://img.shields.io/badge/Facebook-FaintHuman-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fainthuman/)
+[![X](https://img.shields.io/badge/X-MrFaintHuman-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MrFaintHuman)
+
 
 ---
 
