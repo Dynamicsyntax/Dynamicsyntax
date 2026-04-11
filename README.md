@@ -1,9 +1,19 @@
-# ⚡ Zia | Principal Agentic Architect & Systems Lead
-> **Engineering Determinism in Stochastic Systems.** > *Where Automata Theory meets Production-Grade Generative AI.*
 
+# ⚡ Zia | Principal Agentic Architect & Systems Lead
+
+[![Python Mastery](https://img.shields.io/badge/Python_Mastery-Expert-yellow?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Dynamicsyntax/Python)
 [![Architecture](https://img.shields.io/badge/Architecture-Stateful_Systems-blueviolet?style=for-the-badge)](https://github.com/Dynamicsyntax)
 [![AI Engineering](https://img.shields.io/badge/AI_Engineering-Agentic_Workflows-00C853?style=for-the-badge)](https://github.com/Dynamicsyntax)
 [![Design Strategy](https://img.shields.io/badge/Design-Systems_Thinking-FF6D00?style=for-the-badge)](https://github.com/Dynamicsyntax)
+
+---
+
+### 🔄 Evolutionary Roadmap
+**Python Mastery** ⮕ **Agentic AI**
+`████████████████████████░░░░░░` 85%
+> *Transitioning core Python logic into autonomous multi-agent orchestration.*
+
+---
 
 ---
 
