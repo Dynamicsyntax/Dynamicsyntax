@@ -14,7 +14,7 @@
 </p>
 
 **Current State:** 15% — *Laying the foundation of Stateful Agentic Logic.*
-`Python Core` -----------------🔘------------------ `Agentic AI`
+`Python Core` --🔘----------------- `Agentic AI`
 
 ---
 
