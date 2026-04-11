@@ -8,14 +8,16 @@
 
 ---
 
-### 🔄 Evolutionary Roadmap
-**Python Mastery** ⮕ **Agentic AI**
-`█████░░░░░░░░░░░░░░░░░░░░░░░░░` 15%
-> *Status: Initializing Agentic Frameworks. Mapping Automata Theory to Pythonic Workflows.*
+### 🚀 Evolution: Python to Agentic AI
+<p align="left">
+  <img src="https://geps.dev/progress/15?dangerColor=800080&warningColor=ff6d00&successColor=00c853" alt="Evolution Progress" />
+</p>
+
+**Current State:** 15% — *Laying the foundation of Stateful Agentic Logic.*
+`Python Core` -----------------🔘------------------ `Agentic AI`
 
 ---
 
----
 
 ## 🧩 Executive Thesis
 Based in **Lahore, Pakistan**, I specialize in the orchestration of **Autonomous AI Ecosystems**. My work focuses on solving the **Temporal Drift** problem in LLMs by applying **Finite State Machines (FSM)** and **Formal Logic** to multi-agent architectures. 
