@@ -1,20 +1,33 @@
-
 # ⚡ Zia | Principal Agentic Architect & Systems Lead
 
 [![Python Mastery](https://img.shields.io/badge/Python_Mastery-Expert-yellow?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Dynamicsyntax/Python)
 [![Architecture](https://img.shields.io/badge/Architecture-Stateful_Systems-blueviolet?style=for-the-badge)](https://github.com/Dynamicsyntax)
 [![AI Engineering](https://img.shields.io/badge/AI_Engineering-Agentic_Workflows-00C853?style=for-the-badge)](https://github.com/Dynamicsyntax)
-[![Design Strategy](https://img.shields.io/badge/Design-Systems_Thinking-FF6D00?style=for-the-badge)](https://github.com/Dynamicsyntax)
 
 ---
 
 ### 🚀 Evolution: Python to Agentic AI
+
 <p align="left">
-  <img src="https://geps.dev/progress/15?dangerColor=800080&warningColor=ff6d00&successColor=00c853" alt="Evolution Progress" />
+  <a href="https://github.com/Dynamicsyntax">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&width=435&lines=Current+State:+15%+Initialized;Laying+Stateful+Foundations...;Python+Mastery+%E2%9E%9E+Agentic+AI" alt="Typing SVG" />
+  </a>
 </p>
 
-**Current State:** 15% — *Laying the foundation of Stateful Agentic Logic.*
-`Python Core` --🔘----------------- `Agentic AI`
+<svg width="400" height="20" viewBox="0 0 400 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="6" y="7" rx="3" fill="#333" />
+  <rect width="60" height="6" y="7" rx="3" fill="#00C853">
+    <animate attributeName="width" from="0" to="60" dur="2s" fill="freeze" />
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
+  </rect>
+  <circle cx="60" cy="10" r="6" fill="#FFFFFF">
+    <animate attributeName="cx" from="0" to="60" dur="2s" fill="freeze" />
+    <animate attributeName="r" values="6;8;6" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+</svg>
+
+**Status:** `[██░░░░░░░░░░░░░]` 15% 
+> *Transitioning core Python logic into autonomous multi-agent orchestration.*
 
 ---
 
